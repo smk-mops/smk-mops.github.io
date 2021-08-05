@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/static/js/main.babc43b7.chunk.js",
+    "main.js.map": "/static/js/main.babc43b7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0af60024.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0af60024.js.map",
+    "static/js/2.266be3eb.chunk.js": "/static/js/2.266be3eb.chunk.js",
+    "static/js/2.266be3eb.chunk.js.map": "/static/js/2.266be3eb.chunk.js.map",
+    "index.html": "/index.html",
+    "service-worker.js": "/service-worker.js",
+    "service-worker.js.map": "/service-worker.js.map",
+    "static/js/2.266be3eb.chunk.js.LICENSE.txt": "/static/js/2.266be3eb.chunk.js.LICENSE.txt",
+    "static/media/smarkets-logo.33cf24e1.svg": "/static/media/smarkets-logo.33cf24e1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0af60024.js",
+    "static/js/2.266be3eb.chunk.js",
+    "static/js/main.babc43b7.chunk.js"
+  ]
+}
